@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "ALX School update"
+echo "ALX School updated"
 =======
 echo "ALX School"
 >>>>>>> 87d60b94cf7a98db9a33aad41c79912f8c384361
